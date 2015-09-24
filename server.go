@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"typeredux/web"
+	"github.com/mikeshimura/typeredux/web"
 )
 
 func main() {
